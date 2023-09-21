@@ -75,4 +75,4 @@ const LoginForm = () => (
     </Form.Item>
   </Form>
 );
-export default LoginForm;
+export default LoginForm
